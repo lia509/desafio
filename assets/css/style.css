@@ -19,8 +19,9 @@ img{
     display: flex;
 }
 
-.p{
-   display: flex;
+.text{
+   display: inline-block;
+   vertical-align: top;
 }
 
 
