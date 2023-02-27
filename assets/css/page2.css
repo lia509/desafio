@@ -14,6 +14,7 @@ h2{
     font-size: 20px;
 }
 section{
+    margin-top: 10px;
     border: 5px;
-    background-color: blueviolet;
+    border-color: black;
 }
