@@ -10,3 +10,9 @@ img{display: flex;
     flex-direction: column;
     margin: auto;
     width: 25%;}
+
+    input{ width: 50%;
+        display: flex;
+    flex-direction: column;
+    margin: auto;
+    }

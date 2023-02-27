@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(215, 234, 147);
+}
+h1{
+    font-family: Georgia;
+    text-align: center;
+    font-size: 30px;
+}
+    
