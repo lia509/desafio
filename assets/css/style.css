@@ -1,3 +1,8 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
 #section1{display: flex; margin: 10px; border: hidden; background-color: rgb(231, 236, 137);}
 #img1{width: 200px;
 height: 200px;}
