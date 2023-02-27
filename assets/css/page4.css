@@ -1,0 +1,12 @@
+p{ display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 50%;
+    font-size: larger;
+    text-align: center;
+}
+
+img{display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 25%;}
