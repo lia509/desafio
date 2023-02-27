@@ -18,7 +18,7 @@ section{
     border: 5px;
     border-color: black;
 }
-
-#imgsec {
-
+#container{
+    display: flex;
+    justify-content: space-evenly;
 }
