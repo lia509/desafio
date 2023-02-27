@@ -13,6 +13,7 @@ footer {
     width: 100%;
     height: 100px;
     margin-bottom: -10px;
+    left:0;
 }
 
 #footer1 {
@@ -28,3 +29,4 @@ display: flex;
 justify-content: center;
 text-align: center;
 }
+
