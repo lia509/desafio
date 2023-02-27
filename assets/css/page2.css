@@ -13,7 +13,18 @@ h2{
     text-align: center;
     font-size: 20px;
 }
-section{
+#sobre{
     border: 5px;
-    background-color: blueviolet;
+    background-color: orange;
+    height: 200px;
+}
+
+#section2 {
+ background-color: rgb(255, 255, 171);
+ justify-content: space-around;
+ align-items: center;
+ margin: 100px;
+ padding: 10px;;
+ box-shadow: 0 0 10px;
+ border: ;
 }
