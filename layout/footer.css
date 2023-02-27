@@ -1,13 +1,17 @@
 body {
     margin: 0;
     padding: 0;
-}
+
 
 
 footer {
     background-color: rgb(231, 236, 137);
-    margin: 0px;
-    padding: 0px;
+    width: 100%;
+    height: 100px;
+    display: flex; 
+    
+
+
 }
 
 #footer1 {
