@@ -1,5 +1,5 @@
 header {
-    background-color: rgb(231,236,137);
+    background-color: rgb(231, 236, 137);
     text-align: center;
     position: fixed;
     padding: 14px;
@@ -14,15 +14,7 @@ body {
 
 nav {
     display: flex;
-    justify-content: space-between;
-    background-color: linen;
-    box-shadow: 100px;
-    height: 100%;
-}
-
-#logo {
-    padding: 10px;
-    margin: 10px;
+    justify-content: center;
 }
 
 ul {
@@ -40,8 +32,11 @@ a {
     text-decoration: none;
     font-size: 20px;
 }
-li:hover {
+
+a:hover {
     color: white;
+    font-size: 25px;
     background-color: black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 }
