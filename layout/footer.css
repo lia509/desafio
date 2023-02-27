@@ -12,12 +12,14 @@ footer {
 
 #footer1 {
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
     font-family: monospace;
 }
 
-#img2 {
-margin: 5px;
-padding: 5px;
+#img2{
+display: flex;
+justify-content: center;
+text-align: center;
 }
