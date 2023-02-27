@@ -7,8 +7,8 @@ body {
 header {
     display: flex;
     justify-content: space-between;
-    background-color: linen;
-    box-shadow: 100px;
+    background-color: rgb(231, 236, 137);
+    box-shadow: 0 0 30px;
     height: 100%;
 }
 
