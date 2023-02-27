@@ -14,7 +14,15 @@ body {
 
 nav {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+    background-color: linen;
+    box-shadow: 100px;
+    height: 100%;
+}
+
+#logo {
+    padding: 10px;
+    margin: 10px;
 }
 
 ul {
@@ -32,10 +40,8 @@ a {
     text-decoration: none;
     font-size: 20px;
 }
-
-a:hover {
-    color: azure;
-    font-size: 25px;
+li:hover {
+    color: white;
     background-color: black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
