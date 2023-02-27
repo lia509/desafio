@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+footer {
+    background-color: rgb(231, 236, 137);
+    margin: 0px;
+    padding: 0px;
+}
+
+#footer1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: monospace;
+}
+
+#img2 {
+margin: 5px;
+padding: 5px;
+}
