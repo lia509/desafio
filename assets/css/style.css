@@ -1,5 +1,24 @@
-body{
+body {
     margin: 0;
     padding: 0;
-    background-color: rgb(215, 234, 147);
+    background-color: rgb(231, 231, 184);
 }
+
+#section1{display: flex; margin: 10px; border: hidden; background-color: rgb(231, 236, 137);}
+#img1{width: 200px;
+height: 200px;}
+#pa1{ font-size: large;}
+
+#section2{display: flex; justify-content: space-between; margin: 5%; text-align: center;}
+
+img{width: 250px;
+height: 250px;
+padding: 10px;}
+
+#article1{background-color: rgb(231, 236, 137);}
+#article3{background-color: rgb(231, 236, 137);}
+#article2{background-color: rgb(231, 231, 184);}
+
+iframe{margin: 0;}
+h1{ text-align: center;}
+h2{ text-align: center;}
