@@ -5,7 +5,7 @@
 
 
 footer{
-    background-color: rgb(232, 239, 95);
+    background-color: rgb(231, 236, 137);
     margin: 10px;
     padding: 10px;
 }
@@ -17,3 +17,7 @@ footer{
     font-family: monospace ;
 }
 
+#img2{
+display: flex;
+justify-content: center;
+}
