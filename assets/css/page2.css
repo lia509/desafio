@@ -18,7 +18,13 @@ section{
     border: 5px;
     border-color: black;
 }
-#container{
-    display: flex;
+    
+
+.rostos {
+    display: inline;
     justify-content: space-evenly;
+    justify-content: space-between;
+    margin: 50px;
+    padding: 0px;
+    margin-left: 50px;
 }
