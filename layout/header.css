@@ -43,8 +43,8 @@ a {
 }
 
 a:hover {
-    color: black;
-    background-color: rgba(225, 225, 225, 0.489);
+    color: white;
+    background-color: rgba(0, 0, 0, 0.36);
     border-radius: 10px;
 }
 
