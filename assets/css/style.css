@@ -22,19 +22,17 @@ section{
 
 #div_2 {
     display: flex;
-}
-
-.sections{
-    padding: 10px;
     flex-direction: column;
     justify-content: center;
     border-radius: 15px;
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 25px;
--webkit-box-shadow: 11px 15px 30px 0px rgb(0.0.0.0.35);
--moz-box-shadow: 11px 15px 30px 0px rgb(0.0.0.0.35);
-box-shadow: 11px 15px 30px 0px rgb(0.0.0.0.35);
+}
+
+.sections{
+    padding: 10px;
+
 }
 
 #div_1{
