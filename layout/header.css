@@ -9,10 +9,6 @@ body {
     padding: 0;
 }
 
-img {
-    width: 100px;
-    height: 100px;
-}
 
 .header {
     display: flex;
@@ -55,6 +51,11 @@ a:hover {
     height: 100px;
     justify-content: space-between;
     padding: 0 5%;
+}
+
+img {
+    width: 100px;
+    height: 100px;
 }
 
 img:hover {
