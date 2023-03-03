@@ -4,7 +4,7 @@ body {
 }
 
 
-#footer1 {
+footer {
     background-color: rgb(240,199,94);
     display: flex;
     flex-direction: column;
@@ -15,14 +15,13 @@ body {
     width: 100%;
     height: 100px;
     position: fixed;
-<<<<<<< HEAD
+
     bottom: 0;
-=======
+
     margin: 0;
     position: fixed;
     bottom: 0;
     left: 0;
->>>>>>> 004f2f727d25e9845ea832d941cd5c96cc09c07f
 }
 
 #img2{

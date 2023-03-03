@@ -4,6 +4,7 @@ body{
     background-color: rgb(220, 232, 175);
 }
 h1{
+    
     padding-top: 50px;
     font-family: Georgia;
     text-align: center;
@@ -15,6 +16,12 @@ h2{
     font-size: 20px;
 }
 
+#art2{
+    display: flex;
+    background-color: rgb(245, 245, 124);
+    justify-content: space-between;
+    margin: 50px;
+}
 
 .rostos {
     display: inline;
