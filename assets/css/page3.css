@@ -17,17 +17,23 @@
 #pa2 {
     border-color: black;
     margin-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 #pa1 {
     border-color: black;
     outline: 0;
     margin-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 #pa3 {
     border-radius: 0;
     margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 body {
     margin: 0;
