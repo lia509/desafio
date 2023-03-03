@@ -15,6 +15,12 @@ h2{
     font-size: 20px;
 }
 
+#art2{
+    display: flex;
+    background-color: rgb(245, 245, 124);
+    justify-content: space-between;
+    margin: 50px;
+}
 
 .rostos {
     display: inline;
