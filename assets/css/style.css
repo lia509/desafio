@@ -8,9 +8,15 @@ h1{
     text-align: center;
 }
 
+h2{
+   padding-top: 5px;
+   padding-left: 5px;
+}
+
 #p_1 {
-    text-align: center;
-    padding-left: 10px;
+    text-align: justify;
+    padding: 25px;
+    padding-right: 40px;
 }
 
 section{
@@ -30,7 +36,6 @@ section{
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 25px;
-    background-color: rgb(245, 245, 124);
     margin: 25px;
     padding: 25px;
     align-items: center;
@@ -50,7 +55,7 @@ section{
 
 #div_1{
     box-shadow: 5px 5px 15px gray;
-    background-color: #ece48c;
+    background-color: rgb(245, 245, 124);
     color: black;
     border-radius: 10px;
     margin: 10px;
@@ -59,14 +64,22 @@ section{
     
 }
 
-.img_style {
+#img_style {
     margin: auto;
+    margin: 25px;
 }
-
-.imagem_style{
-    margin-left: 5px;
-}
+    
 
 #p1 {
     text-align: center;
+    
+}
+
+article{
+    border-top: 3px solid rgb(217, 29, 29);
+    border-radius: 5px;
+    margin: 25px;
+    padding: 25px;
+    box-shadow: 5px 5px 15px gray;
+    background-color: rgb(245, 245, 124);
 }
