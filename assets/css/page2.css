@@ -18,21 +18,27 @@ h2{
 #tudão{
     background-color: rgb(245, 245, 124);
     margin: 50px;
+    padding: 50px;
     border-radius: 5px;
     border-left: 5px solid rgb(240, 199, 94);
     box-shadow: 5px 5px 15px gray;
+    
 }
 #art2{
     display: flex;
     background-color: rgb(245, 245, 124);
-    
+    justify-content: center;
     margin: 50px;
+    padding-right: 25px;
 }
 #art3{
     display: flex;
     background-color: rgb(245, 245, 124);
     padding-bottom: 25px;
-    margin: 50px;
+    margin: 25px;
+    justify-content: center;
+    margin: 25px;
+    padding-right: 25px;
 }
 
 
@@ -45,6 +51,7 @@ h2{
     border-radius: 5px;
     border-top: 5px solid rgb(240, 199, 94);
     box-shadow: 5px 5px 15px gray;
+    justify-content: space-evenly;
     
 
 }
@@ -54,7 +61,7 @@ a{
 }
     
 p{
-    text-align: center;
+    text-align: left;
     
 }
     
