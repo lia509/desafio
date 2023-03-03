@@ -39,7 +39,7 @@ li {
 a {
     color: black;
     text-decoration: none;
-    padding: 10px;
+    padding: 20px;
 }
 
 a:hover {
@@ -59,15 +59,15 @@ img {
 }
 
 img:hover {
-    animation: spin 2s linear infinite;
-}
+    width: 100px;
+    animation: rotation 2s infinite linear;
+  }
 
-@keyframes spin {
+  @keyframes rotation {
     from {
-        transform: rotate (0deg);
+      transform: rotate(0deg);
     }
-
     to {
-        transform: rotate (360deg);
+      transform: rotate(359deg);
     }
-}
+  }
