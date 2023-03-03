@@ -31,9 +31,3 @@ input {
     position: fixed;
     bottom: 0;
 }
-a{
-    text-decoration: none;
-    padding: 10px;
-    background-color: rgb(215, 234, 147) ;
-    color: white;
-}
