@@ -43,7 +43,7 @@ a {
 }
 
 a:hover {
-    color: white;
+    color: black;
     background-color: rgba(225, 225, 225, 0.489);
     border-radius: 10px;
 }
