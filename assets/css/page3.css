@@ -11,10 +11,11 @@
     border: blanchedalmond;
     width: 50px;
     height: 50px;
-    background-color:red;
+    background-color:gray;
     padding-left:300px ;
     padding-right: 340px;
-
+    border-radius: 10px;
+    margin-bottom: 10px;
 }
 
 #pa2 {
