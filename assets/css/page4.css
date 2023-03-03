@@ -37,6 +37,10 @@ input {
     bottom: 0;
 }
 
+button {
+    padding: 10px;
+}
+
 form{ text-align: center;
     text-align: center;
 }
